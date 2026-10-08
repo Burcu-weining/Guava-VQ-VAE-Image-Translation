@@ -1,0 +1,10 @@
+# Install compatible PyTorch/torchvision for your CPU or GPU from pytorch.org first if needed.
+torch
+torchvision
+numpy
+matplotlib
+scipy
+Pillow
+six
+umap-learn
+scikit-image
